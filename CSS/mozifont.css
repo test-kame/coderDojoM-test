@@ -1,0 +1,56 @@
+.zihatu{
+    font-size: 270%;
+    text-align: center;
+    font-weight: bold;
+    text-shadow: 8px 3px 4px silver;
+    color: rgb(0, 132, 255);
+}
+
+.zihatuS{
+    font-size: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-thickness: 2px;
+}
+
+.hiniti{
+    text-align: center;
+    color: rgb(233, 94, 94);
+    font-size:250%
+  }
+
+  .yarukoto{
+    font-size: 200%;
+    font-weight: bold;
+    text-shadow: 8px 3px 4px silver;
+  }
+  
+  .yarukotoS{
+    text-align: left;
+
+  }
+
+.Zkaisai{
+  font-weight: bold;
+  font-size:200%
+  
+}
+
+
+
+
+  .sukura img{
+    width: 30%;
+    height: 30%;
+  }
+
+  .micro img{
+    width: 20%;
+    height: 30%;
+    text-align: center;
+  }
+
+  .mine img{
+    width: 20%;
+    height: 30%;
+  }
